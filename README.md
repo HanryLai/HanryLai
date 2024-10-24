@@ -1,4 +1,4 @@
-<h2  align="center" >Hello, I'm Lại Dương Minh Hiếu (Hanry Lai)</h1>
+<h2  align="center" >Hello, I'm Lại Dương Minh Hiếu (Harry Lai)</h1>
       <p align="center">
   ✨ POSITION: Backend Developer ✨
 </p>
