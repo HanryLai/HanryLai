@@ -1,6 +1,6 @@
 <h2  align="center" >Hello, I'm Lại Dương Minh Hiếu (Harry Lai)</h1>
       <p align="center">
-  ✨ POSITION: Backend Developer ✨
+  ✨ POSITION: Backend Developer Intern ✨
 </p>
 
 - 👀 I’m interested in backend development, focusing on creating efficient and scalable server-side applications.
