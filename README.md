@@ -17,18 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🛠️ Technologies & Tools
 
-- **Languages**: JavaScript, TypeScript
-- **Frameworks**: Node.js, Express, NestJS
+- **Languages**: JavaScript, TypeScript, Java
+- **Frameworks**: NestJS, Spring
 - **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools**: Git, Docker
+- **Tools**: Git, Docker, Nginx, DigitalOcean, Redis
 
-## 🎨 Projects
-
-- [**Udemy**](https://gitlab.com/harveyod/harvey-be)
-    + _Description_: Application for student and instructor want to teach somthing and study new knowledge
-    + _Technologies_: Nestjs, Typescript, postgres
-    + _Other_: Redis, Message queue, AWS, docker, JWT custome with RSA
-- [**Cinema**](https://github.com/lucasngucii/BE-Ecommerce)
-  - _Description_: Project about the management of admin, customers, and staff in a cinema
-  - _Technologies_: Express, Typescript, postgres
-  - _Other_: JWT
