@@ -1,8 +1,8 @@
 # 👨‍💻 Hi, I'm Lai Duong Minh Hieu!
 
-🚀 **Fresher Full-Stack Developer** | 🌱 Always Learning | 💻 Code Lover
+🚀 **Fresher Full-Stack Developer** | 🌱 Passionate Learner | 💻 Code Enthusiast
 
-💬 *"Step by step, I'm learning to build great software."*
+💬 *"Step by step, I’m learning to build better software every day."*
 
 ---
 
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧰 Tech Toolbox
+## 🧰 Tech Stack
 
 ### 💻 Programming Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,20 +42,20 @@
 
 ---
 
-## 🎯 What I'm Learning
+## 🎯 Currently Learning
 
-- Xây dựng REST API với **NestJS** và **Spring Boot**
-- Tìm hiểu cách làm việc với **microservices** cơ bản
-- Làm việc nhóm và quản lý mã nguồn với **Git + GitHub**
-- Hiểu thêm về các kiến trúc phần mềm đơn giản, dễ mở rộng
+- Building RESTful APIs with **NestJS** and **Spring Boot**
+- Exploring the basics of **microservices architecture**
+- Collaborating with Git and GitHub
+- Learning about clean, scalable system design
 
 ---
 
-## 🎉 About Me
+## 🎉 A Bit About Me
 
-- 🧩 Thích tìm hiểu backend, đặc biệt là logic xử lý nghiệp vụ
-- 🤔 Không ngại lỗi — vì lỗi là bạn đồng hành khi học lập trình
-- 🍵 Sở thích: code kèm trà sữa, nghe nhạc khi debug
+- 🧩 I enjoy backend development and solving logical problems
+- 🧠 I believe mistakes are part of the learning process
+- 🎧 I love coding with music and milk tea on the side!
 
 ---
 
@@ -68,4 +68,4 @@
 
 ---
 
-> 🐣 *Còn mới, nhưng không ngừng cố gắng. Cùng nhau viết nên những dòng code chất lượng nhé!*
+> 🐣 *Still new, but eager to grow. Let’s build something great together!*
