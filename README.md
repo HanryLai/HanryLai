@@ -42,25 +42,24 @@ Stay tuned, it’s coming very soon with live demos, source code, and write-ups 
 
 
 ### 🗄️ Databases & Caching
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-green?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 
 ## 🚀 DevOps & Deployment
 
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 🎯 Currently Learning
 
 - Building RESTful APIs with **NestJS** and **Spring Boot**
 - Exploring the basics of **microservices architecture**
-- Collaborating with Git and GitHub
-- Learning about clean, scalable system design
-
+- Working with real-time apps using **WebSocket**
+- Collaborating with **Git**,**GitLab** and **GitHub**
+- Learning clean, scalable system design principles
 
 ## 🎉 A Bit About Me
 
