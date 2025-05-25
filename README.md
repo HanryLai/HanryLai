@@ -1,6 +1,6 @@
 # 👨‍💻 Hi, I'm Lai Duong Minh Hieu!
 
-🚀 **Fresher Full-Stack Developer** | 🌱 Passionate Learner | 💻 Code Enthusiast
+🚀 **Fresher Backend Developer** | 🌱 Passionate Learner | 💻 Code Enthusiast
 
 💬 *"Step by step, I’m learning to build better software every day."*
 
