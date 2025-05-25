@@ -16,6 +16,12 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="500"/>
 </p>
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HanryLai&show_icons=true&theme=calm" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HanryLai&theme=calm" width="48%" />
+</p>
 ---
 
 ## 🧰 Tech Stack
@@ -59,12 +65,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ldmhieudev&show_icons=true&theme=calm" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ldmhieudev&theme=calm" width="48%" />
-</p>
 
 ---
 
